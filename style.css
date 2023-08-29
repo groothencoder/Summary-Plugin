@@ -1,0 +1,25 @@
+body{
+    min-width: 300px;
+    /* border: 1px solid red; */
+    border-radius: 10px;
+}
+
+.box{
+    /* margin: auto;
+    height: 100%;
+    width: 600%;*/
+  border: 3px solid #73AD21; 
+   padding: 10px;
+   text-align: center;
+
+}
+#pointsummary{
+    margin: 10px;
+    background-color: #90C44E;
+    border-radius: 10px;
+}
+#fullsummary{
+    margin: 10px;
+    background-color: #90C44E;
+    border-radius: 10px;
+}
